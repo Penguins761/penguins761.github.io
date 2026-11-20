@@ -131,7 +131,7 @@
     <a href="Tacko Fall.htm">
         <div class="player-container">
             <div class="player-card" id="rayan-rupert">
-                <img src="fall.jpg" alt="Rayan Rupert" alt="Rayan Rupert" class="player-image">
+                <img src="rayan.jpg" alt="Rayan Rupert" alt="Rayan Rupert" class="player-image">
                 <div class="player-stats">
                     <h2>Rayan Rupert</h2>
                 </div>
@@ -141,7 +141,7 @@
     <a href="Tacko Fall.htm">
         <div class="player-container">
             <div class="player-card" id="caleb-love">
-                <img src="fall.jpg" alt="Caleb Love" alt="Caleb Love" class="player-image">
+                <img src="caleb.jpg" alt="Caleb Love" alt="Caleb Love" class="player-image">
                 <div class="player-stats">
                     <h2>Caleb Love</h2>
                 </div>
